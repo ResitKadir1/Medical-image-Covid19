@@ -20,6 +20,8 @@ Clasification report:
    macro avg       0.86      0.86      0.86       188
 weighted avg       0.87      0.86      0.86       188
 
+
+
 ### VGG-
 
               precision    recall  f1-score   support
@@ -30,6 +32,9 @@ weighted avg       0.87      0.86      0.86       188
     accuracy                           0.94       188
    macro avg       0.94      0.93      0.94       188
 weighted avg       0.94      0.94      0.94       188
+
+
+
 
 
 ### InceptionV3
@@ -43,6 +48,8 @@ Clasification(InceptionV3) report:
     accuracy                           0.67       188
    macro avg       0.72      0.65      0.63       188
 weighted avg       0.71      0.67      0.64       188
+
+
 
 ### Xception
 
