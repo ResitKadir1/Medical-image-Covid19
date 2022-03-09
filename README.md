@@ -1,7 +1,6 @@
 # Medical-image-Covid19
-
-<img width="544" alt="pstv" src="https://user-images.githubusercontent.com/55817519/157409471-78a09111-0ce5-4b48-adc8-cba1a0277b64.png">
-<img width="537" alt="ngtv" src="https://user-images.githubusercontent.com/55817519/157409483-6aa69167-d8e2-464d-a12a-c726038f46fb.png">
+P | N
+<img width="544" alt="pstv" src="https://user-images.githubusercontent.com/55817519/157409471-78a09111-0ce5-4b48-adc8-cba1a0277b64.png"> | <img width="537" alt="ngtv" src="https://user-images.githubusercontent.com/55817519/157409483-6aa69167-d8e2-464d-a12a-c726038f46fb.png">
 
 
 
@@ -15,7 +14,6 @@ Clasification report:
 
            0       0.79      0.93      0.86        87
            1       0.93      0.79      0.86       101
-
     accuracy                           0.86       188
    macro avg       0.86      0.86      0.86       188
 weighted avg       0.87      0.86      0.86       188
