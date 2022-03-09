@@ -10,13 +10,13 @@
 
 Clasification report:
 
-               precision    recall  f1-score   support
+              | precision   | recall | f1-score  | support
 
-           0       0.79      0.93      0.86        87
-           1       0.93      0.79      0.86       101
-   macro avg       0.86      0.86      0.86       188
-weighted avg       0.87      0.86      0.86       188
-    accuracy                           0.86       188
+           0      | 0.79    |  0.93    |  0.86   |     87
+           1    |   0.93    |  0.79   |   0.86    |   101
+   macro avg    |   0.86   |   0.86 |     0.86  |     188
+weighted avg     |  0.87    |  0.86    |  0.86    |   188
+    accuracy      |         |          |  0.86    |   188
 
 
 
@@ -42,7 +42,6 @@ Clasification(InceptionV3) report:
 
            0       0.80      0.38      0.52        87
            1       0.63      0.92      0.75       101
-
     accuracy                           0.67       188
    macro avg       0.72      0.65      0.63       188
 weighted avg       0.71      0.67      0.64       188
