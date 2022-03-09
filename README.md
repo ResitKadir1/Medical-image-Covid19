@@ -4,10 +4,13 @@
 <img width="537" alt="ngtv" src="https://user-images.githubusercontent.com/55817519/157409483-6aa69167-d8e2-464d-a12a-c726038f46fb.png">
 
 
+
+
 ### CNN-
 
 
 Clasification report:
+
                precision    recall  f1-score   support
 
            0       0.79      0.93      0.86        87
